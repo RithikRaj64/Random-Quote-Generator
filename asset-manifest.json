@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Random-Quote-Generator/static/css/main.80c950a1.css",
-    "main.js": "/Random-Quote-Generator/static/js/main.00789187.js",
+    "main.css": "/Random-Quote-Generator/static/css/main.66f2985f.css",
+    "main.js": "/Random-Quote-Generator/static/js/main.eef2a25f.js",
     "static/media/dancing-script-all-400-normal.woff": "/Random-Quote-Generator/static/media/dancing-script-all-400-normal.00c538802507d01074bd.woff",
     "static/media/josefin-sans-all-400-normal.woff": "/Random-Quote-Generator/static/media/josefin-sans-all-400-normal.7c4532067e4e43539af1.woff",
     "static/media/dancing-script-latin-400-normal.woff2": "/Random-Quote-Generator/static/media/dancing-script-latin-400-normal.26d3e7a5932e68dd7531.woff2",
@@ -11,11 +11,11 @@
     "static/media/dancing-script-vietnamese-400-normal.woff2": "/Random-Quote-Generator/static/media/dancing-script-vietnamese-400-normal.508eb88407ccebae7414.woff2",
     "static/media/josefin-sans-vietnamese-400-normal.woff2": "/Random-Quote-Generator/static/media/josefin-sans-vietnamese-400-normal.8d631991aaf999843621.woff2",
     "index.html": "/Random-Quote-Generator/index.html",
-    "main.80c950a1.css.map": "/Random-Quote-Generator/static/css/main.80c950a1.css.map",
-    "main.00789187.js.map": "/Random-Quote-Generator/static/js/main.00789187.js.map"
+    "main.66f2985f.css.map": "/Random-Quote-Generator/static/css/main.66f2985f.css.map",
+    "main.eef2a25f.js.map": "/Random-Quote-Generator/static/js/main.eef2a25f.js.map"
   },
   "entrypoints": [
-    "static/css/main.80c950a1.css",
-    "static/js/main.00789187.js"
+    "static/css/main.66f2985f.css",
+    "static/js/main.eef2a25f.js"
   ]
 }
