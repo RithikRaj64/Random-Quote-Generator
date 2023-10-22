@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import TypeWriterEffect from "react-typewriter-effect";
-import "@fontsource/josefin-sans"
-import "@fontsource/dancing-script"
+import "@fontsource-variable/josefin-sans"
+import "@fontsource-variable/dancing-script"
 
 function App() {
   const [quote, setQuote] = useState({});
